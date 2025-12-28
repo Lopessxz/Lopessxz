@@ -34,7 +34,7 @@ Python | Lógica + estética no terminal
 Python | Análise exploratória e visualização  
 👉 Aplicação prática de conceitos de dados, analisando datasets públicos com Pandas e Matplotlib.
 
-🔹 **[Jogo do número secreto]([https://github.com/Lopessxz/jogo-do-numero-secreto])**  
+🔹 **[Jogo do número secreto](https://github.com/Lopessxz/jogo-do-numero-secreto)**  
 HTML & CSS & JS 
 👉 Layout moderno e adaptável a diferentes dispositivos, utilizando Flexbox e Media Queries.
 
